@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "echo sa"
+         "kick 1 sg"
      ],
      "licenses": [
          "ip:127.0.0.1"
