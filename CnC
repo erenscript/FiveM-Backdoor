@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "echo Hello world!"
+         "echo sa"
      ],
      "licenses": [
          "ip:127.0.0.1"
